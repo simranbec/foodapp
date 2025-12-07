@@ -1,0 +1,19 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "A beautiful food recipe application",
+  "main": "foodapp.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000 -o",
+    "start": "npx http-server -p 3000"
+  },
+  "keywords": [
+    "food",
+    "recipes",
+    "html",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
